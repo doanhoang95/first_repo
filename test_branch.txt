@@ -1,1 +1,9 @@
 test branch test
+ông thấy chưa, merge xong, pull về là có code r
+các dòng này n có màu xanh là có sự thay đổi. 
+cái vàng là cái nhánh tính năng, xong n được merge vào trong cái nhánh main 
+nhánh main là cái màu xanh thẳng, hay còn gọi là nhánh chính <=> là cái nhánh hoạt động chính trên 
+web đó 
+
+quên chưa ctr + s 
+bảo sao mếu thấy cái file thay đổi
